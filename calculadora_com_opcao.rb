@@ -18,6 +18,7 @@ when "-"
     puts "Digite o subtraendo: "
     v2 = gets.to_i
     puts "#{v1}-#{v2}= " + (v1 - v2).to_s
+    
 when "*"
     puts "Digite o primeiro fator: "
     v1 = gets.to_i
@@ -30,7 +31,7 @@ when "/"
     v1 = gets.to_i
     puts "Digite o divisor: "
     v2 = gets.to_i
-
+    
     if v2 == 0
         puts "Divisão por zero não é permitido"
     else
@@ -39,4 +40,5 @@ when "/"
 
 else
     puts "ENTRADA INVALIDA"
+    
 end
