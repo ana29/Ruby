@@ -1,7 +1,7 @@
 #Ana Godoy 25/07/17
 #Início da Vogal
 
-for i in 0..5
+for i in 0..4
     puts "digite uma palavra "
     palavra = gets.chomp
 
