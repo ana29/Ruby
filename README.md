@@ -1,1 +1,2 @@
-Repositório com a solução de problemas (http://dirlididi.com/client/index.html#/problems) utilizando a linguagem Ruby.  
+Repositório com a solução de problemas utilizando a linguagem Ruby.   http://dirlididi.com/client/index.html#/problems
+https://www.urionlinejudge.com.br
